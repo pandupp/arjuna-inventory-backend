@@ -1,1 +1,1 @@
-web: frankenphp run --working-dir public
+web: php -S 0.0.0.0:$PORT -t public
