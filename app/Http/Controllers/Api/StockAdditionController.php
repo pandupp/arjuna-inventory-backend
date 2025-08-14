@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Validation\ValidationException;
 
-class InvoiceController extends Controller
+class StockAdditionController extends Controller
 {
     /**
      * Display a listing of the resource.
