@@ -1,0 +1,4 @@
+# nixpacks.toml
+
+[environment]
+PHP_EXTENSIONS = ["pdo_pgsql", "tokenizer", "bcmath"]
